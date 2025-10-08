@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentencepiece
+pdfplumber
+python-docx
+sumy
+nltk
+pytesseract
+Pillow
